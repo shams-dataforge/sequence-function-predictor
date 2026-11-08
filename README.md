@@ -1,4 +1,5 @@
 # Sequence Function Predictor
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24059064.svg)](https://doi.org/10.5281/zenodo.24059064)
 
 A Streamlit-based web application for evidence-based, ortholog-based functional annotation of biological sequences.
 
