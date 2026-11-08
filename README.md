@@ -76,3 +76,17 @@ Functional annotations are computational predictions and should be interpreted i
 ## License
 
 License information will be added following institutional approval.
+
+## Application Screenshots
+
+### Application Homepage
+![Application Homepage](screenshots/homepage.png)
+
+### Functional Annotation Results
+![Annotation Results](screenshots/results_all.png)
+
+### Gene Ontology (GO) Results
+![GO Results](screenshots/go_terms.png)
+
+### KEGG Results
+![KEGG Results](screenshots/keggresult.png)
