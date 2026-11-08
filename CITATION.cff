@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use Sequence Function Predictor in your research, please cite this software."
+title: "Sequence Function Predictor"
+type: software
+authors:
+  - family-names: "Rehman"
+    given-names: "Shams Ur"
+version: "1.0.0"
+repository-code: "https://github.com/shams-dataforge/sequence-function-predictor"
