@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.backup
+*.bak
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+bioannotate/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated data and results
+data/
+*.fasta
+*.fa
+*.faa
+*.fna
+*.fastq
+*.fq
+*.gbk
+*.gbff
+*.tsv
+*.tabular
+*.annotations
+*.hits
+*.seed_orthologs
+*.csv
+*.xlsx
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# eggNOG database
+eggnog_data/
+
+# Development files
+.agents/
+go-basic.obo

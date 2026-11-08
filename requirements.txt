@@ -1,0 +1,7 @@
+streamlit==1.62.0
+numpy==2.2.6
+pandas==2.3.3
+biopython==1.88
+goatools==1.6.5
+openpyxl==3.1.5
+xlsxwriter==3.2.9
