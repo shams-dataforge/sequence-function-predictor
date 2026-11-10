@@ -76,7 +76,7 @@ Functional annotations are computational predictions and should be interpreted i
 
 ## License
 
-License information will be added following institutional approval.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Application Screenshots
 

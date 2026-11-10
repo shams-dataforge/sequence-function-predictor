@@ -6,5 +6,6 @@ authors:
   - family-names: "Rehman"
     given-names: "Shams Ur"
 version: "1.0.0"
+license: MIT
 doi: "10.5281/zenodo.24059064"
 repository-code: "https://github.com/shams-dataforge/sequence-function-predictor"
