@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: "Rehman"
     given-names: "Shams Ur"
-version: "1.0.0"
+version: "1.0.1"
 license: MIT
-doi: "10.5281/zenodo.24059064"
+doi: "10.5281/zenodo.24168343"
 repository-code: "https://github.com/shams-dataforge/sequence-function-predictor"
